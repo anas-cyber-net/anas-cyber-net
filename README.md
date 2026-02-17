@@ -1,19 +1,6 @@
 <div align="center">
 
-<pre>
-  ______                                                               __  __  __                 _____                       ______                     
- /      \                                                             |  \|  \|  \               |     \                     /      \                    
-|  $$$$$$\ _______    ______    _______        ______ ____    ______  | $$ \$$| $$   __           \$$$$$  ______    ______  |  $$$$$$\ ______    ______  
-| $$__| $$|       \  |      \  /       \      |      \    \  |      \ | $$|  \| $$  /  \            | $$ |      \  |      \ | $$_  \$$|      \  /      \ 
-| $$    $$| $$$$$$$\  \$$$$$$\|  $$$$$$$      | $$$$$$\$$$$\  \$$$$$$\| $$| $$| $$_/  $$       __   | $$  \$$$$$$\  \$$$$$$\| $$ \     \$$$$$$\|  $$$$$$\
-| $$$$$$$$| $$  | $$ /      $$ \$$    \       | $$ | $$ | $$ /      $$| $$| $$| $$   $$       |  \  | $$ /      $$ /      $$| $$$$    /      $$| $$   \$$
-| $$  | $$| $$  | $$|  $$$$$$$ _\$$$$$$\      | $$ | $$ | $$|  $$$$$$$| $$| $$| $$$$$$\       | $$__| $$|  $$$$$$$|  $$$$$$$| $$     |  $$$$$$$| $$      
-| $$  | $$| $$  | $$ \$$    $$|       $$      | $$ | $$ | $$ \$$    $$| $$| $$| $$  \$$\       \$$    $$ \$$    $$ \$$    $$| $$      \$$    $$| $$      
- \$$   \$$ \$$   \$$  \$$$$$$$ \$$$$$$$        \$$  \$$  \$$  \$$$$$$$ \$$ \$$ \$$   \$$        \$$$$$$   \$$$$$$$  \$$$$$$$ \$$       \$$$$$$$ \$$      
-                                                                                                                                                         
-                                                                                                                                                         
-                                                                                                                                                         
-</pre>
+# Anas Malik Jaafar
 
 ### Cybersecurity Enthusiast | Rust Developer | Network Specialist
 
@@ -79,19 +66,6 @@ I am a 16-year-old high school student based in Madinah, Saudi Arabia. Originall
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![Anas GitHub Stats](https://github-readme-stats.vercel.app/api?username=anas-cyber-net&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-cyber-net&layout=compact&theme=transparent&hide_border=true&hide_title=true&count_private=true)
-
-![Streak Stats](https://streak-stats.demolab.com/?user=anas-cyber-net&theme=transparent&hide_border=true&date_format=%5BY-%5DM-d)
-
-</div>
-
----
-
 ## Education
 
 **High School Student**
@@ -104,11 +78,3 @@ Madinah, Saudi Arabia — Balancing academic studies with advanced technical tra
 - **GitHub:** [anas-cyber-net](https://github.com/anas-cyber-net)
 - **Email:** anas.jaafar.cyber.net.t@proton.me
 - **Location:** Madinah, Saudi Arabia
-
----
-
-<div align="center">
-
-*Open to collaborations in cybersecurity research, network security projects, and Rust-based tool development.*
-
-</div>
