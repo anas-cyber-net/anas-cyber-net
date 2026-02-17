@@ -67,34 +67,10 @@ I am a 16-year-old high school student based in Madinah, Saudi Arabia. Originall
 
 ---
 
-## Projects
-
-**Rust Security Tools**
-
-Developing custom security utilities using the Rust programming language, with a focus on encryption, data integrity, and system protection.
-
-| Project | Description | Language |
-|---|---|---|
-| Password Manager | A secure password management tool built to understand encryption and data storage security. | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-
----
-
 ## Education
 
 **High School Student**
 Madinah, Saudi Arabia — Balancing academic studies with advanced technical training in IT and Security.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
-
-</div>
 
 ---
 
