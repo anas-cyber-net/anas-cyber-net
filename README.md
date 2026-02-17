@@ -76,6 +76,6 @@ Madinah, Saudi Arabia — Balancing academic studies with advanced technical tra
 
 ## Contact
 
-- **GitHub:** [YourUsername](https://github.com/YourUsername)
-- **Email:** youremail@gmail.com
+- **GitHub:** [**anas-cyber-net**](https://github.com/anas-cyber-net)
+- **Email:** anas-cyber-net-t@proton.me
 - **Location:** Madinah, Saudi Arabia
