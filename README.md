@@ -1,81 +1,56 @@
-<div align="center">
+<div align="center" width="50">
 
-# Anas Malik Jaafar
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-### Cybersecurity Enthusiast | Rust Developer | Network Specialist
+<details>
+<p><strong><summary> Currently Focused On: </summary></strong></p>
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YourUsername)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-![Location](https://img.shields.io/badge/-Madinah,%20Saudi%20Arabia-0a7c59?style=flat-square&logo=google-maps&logoColor=white)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername)
+Network Security Fundamentals | Rust Systems Programming | Linux Administration
 
+</details>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Contact-grey?style=flat&logo=telegram)](mailto:your-email@example.com) <br>
 </div>
 
----
+<hr></hr>
 
-## About Me
+![tools_I_use](https://img.shields.io/badge/-🚀%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-:orange)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
-I am a 16-year-old high school student based in Madinah, Saudi Arabia. Originally from Egypt, I am deeply passionate about the field of Cybersecurity and Computer Networks. Although I have not yet specialized in a specific track (Red Team or Blue Team), my primary interest lies in understanding network architectures and protocols. My goal is to reach an advanced level of expertise in cybersecurity and contribute to the field through secure tool development and network analysis.
+```rust
+// tools_I_use organized
 
----
+struct CybersecurityToolkit {
+    programming_languages: Vec<&'static str>,
+    systems_and_os: Vec<&'static str>,
+    networking: Vec<&'static str>,
+    development_tools: Vec<&'static str>,
+    security_focus: Vec<&'static str>,
+}
 
-## Technical Skills
-
-**Programming Languages**
-
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**Cybersecurity**
-
-![Security Tools](https://img.shields.io/badge/-Security%20Tool%20Development-C8202F?style=flat-square&logo=hackthebox&logoColor=white)
-![System Hardening](https://img.shields.io/badge/-System%20Hardening-8B0000?style=flat-square&logo=shield&logoColor=white)
-![Password Management](https://img.shields.io/badge/-Password%20Management-6D28D9?style=flat-square&logo=bitwarden&logoColor=white)
-
-**Networking**
-
-![Network+](https://img.shields.io/badge/-CompTIA%20Network%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)
-![Protocols](https://img.shields.io/badge/-Network%20Protocols%20%26%20Architecture-0078D6?style=flat-square&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-**Hardware & IT Support**
-
-![CompTIA A+](https://img.shields.io/badge/-CompTIA%20A%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)
-![Hardware](https://img.shields.io/badge/-PC%20%26%20Laptop%20Maintenance-607D8B?style=flat-square&logo=thinkpad&logoColor=white)
-
-**Operating Systems**
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## Experience & Learning Path
-
-- **Duration:** Approximately 3.5 months of intensive self-study and practical application.
-
-| Certification / Course | Status |
-|---|---|
-| CompTIA Network+ | ![Studied](https://img.shields.io/badge/-Curriculum%20Completed-2ea44f?style=flat-square) |
-| CompTIA A+ | ![Studied](https://img.shields.io/badge/-Fundamentals%20Acquired-2ea44f?style=flat-square) |
-
----
-
-## Education
-
-**High School Student**
-Madinah, Saudi Arabia — Balancing academic studies with advanced technical training in IT and Security.
-
----
-
-## Contact
-
-- **GitHub:** [**anas-cyber-net**](https://github.com/anas-cyber-net)
-- **Email:** anas-cyber-net-t@proton.me
-- **Location:** Madinah, Saudi Arabia
+impl CybersecurityToolkit {
+    fn new() -> Self {
+        Self {
+            programming_languages: vec!["Rust", "Python", "C++", "Bash"],
+            systems_and_os: vec!["Linux", "Windows", "Terminal Operations"],
+            networking: vec!["Network Protocols", "Wireshark", "Network+ Curriculum"],
+            development_tools: vec!["Git", "GitHub", "VS Code", "Docker"],
+            security_focus: vec!["Password Managers", "System Hardening", "Network Security"],
+        }
+    }
+}
