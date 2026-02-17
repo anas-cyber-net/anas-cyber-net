@@ -1,102 +1,88 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anas-malik.anas-malik">
+# Anas Malik Jaafar
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+,+There!+👋;I+am+Anas+Malik+Jaafar;Cybersecurity+Enthusiast;Network+%26+Rust+Developer&center=true&size=30">
-  </a>
-</h1>
+Cybersecurity Enthusiast | Rust Developer | Network Specialist based in Madinah, Saudi Arabia
 
-<h5 align="center">
-  <code><a href="#" title="LinkedIn"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"> LinkedIn</a></code>
-  <code><a href="#" title="GitHub"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"> GitHub</a></code>
-  <code><a href="mailto:your-email@example.com" title="Email"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email"> Email</a></code>
-</h5>
-<br>
-<p align="center">
-  Cybersecurity Student & Network Specialist based in Madinah, Saudi Arabia
-  <br>
-  <br>
-  🔬 Focused on Network Security, System Hardening, and Secure Tool Development
-  <br>
-  🎓 High School Student | Self-taught in Network+ & A+ Curricula
-  <br>
-  💻 Proficient in Rust, Linux Administration, and Network Protocols
-  <br>
-  🐧 Experienced with Terminal Operations and Server Management
-  <br>
-  🛠️ Building security tools like Password Managers using Rust
-  <br>
-  💬 Ask me about: Networking, Rust, Linux, and Cybersecurity fundamentals
-  <br>
-  📫 How to reach me: <a href="mailto:your-email@example.com">your-email@example.com</a>
-</p>
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anas-malik.anas-malik&style=flat-square)](https://github.com/anas-malik)
 
-<hr>
+## About
 
-<h2 align="center">Technical Skills & Technologies</h2>
-<br>
-<p align="center">
-  <code><img title="Rust" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"></code>
-  <code><img title="Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
-  <code><img title="Terminal" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
-  <code><img title="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-  <code><img title="C++" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img title="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-  <code><img title="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-  <code><img title="Network Protocols" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg"></code>
-  <code><img title="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
-  <code><img title="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></code>
-  <code><img title="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-</p>
+I am a 16-year-old high school student from Egypt, currently residing in Madinah, Saudi Arabia. My passion lies in Cybersecurity and Computer Networks. While I am still exploring both defensive and offensive security tracks, I have a strong inclination towards network architecture and protocols. My goal is to achieve advanced expertise in cybersecurity through continuous learning and practical tool development.
 
-<hr>
+## Technologies and Tools
 
-<h2 align="center">Experience & Learning Path</h2>
-<br>
-<p align="center">
-  <b>Self-Directed Learning Journey</b> | <i>~3.5 Months Intensive Study</i>
-  <br><br>
-  • Completed full CompTIA Network+ curriculum content (Protocols, Infrastructure, Security)<br>
-  • Studied CompTIA A+ fundamentals (Hardware, Troubleshooting, System Maintenance)<br>
-  • Developed practical skills in Rust programming for security applications<br>
-  • Hands-on experience with Linux system administration and terminal operations<br>
-  • Practical knowledge in basic server setup and network device configuration
-</p>
+[<img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=DEA584" alt="Rust" title="Rust" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FFFFFF" alt="Linux" title="Linux" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Terminal-282C34?logo=gnu-bash&logoColor=4EAA25" alt="Terminal" title="Terminal" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python" title="Python" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++" title="C++" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" title="Git" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub" title="GitHub" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Wireshark-282C34?logo=wireshark&logoColor=1679A7" alt="Wireshark" title="Wireshark" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker" title="Docker" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" title="VS Code" height="28" />](#)
 
-<hr>
+## Currently Learning
 
-<h2 align="center">GitHub Statistics</h2>
-<br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="Top Languages" />
-</p>
-<br><br><br><br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=0d1117&hide_border=true" width="100%"/>
-</p>
+[<img src="https://img.shields.io/badge/Network%20Security-282C34?logo=cisco&logoColor=1BA0D7" alt="Network Security" title="Network Security" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Rust%20Systems%20Prog-282C34?logo=rust&logoColor=DEA584" alt="Rust Systems Programming" title="Rust Systems Programming" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Server%20Management-282C34?logo=linux&logoColor=FFFFFF" alt="Server Management" title="Server Management" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Protocol%20Analysis-282C34?logo=wireshark&logoColor=1679A7" alt="Protocol Analysis" title="Protocol Analysis" height="28" />](#)
 
-<hr>
+## Interested in Learning
 
-<h2 align="center">Featured Projects</h2>
-<br>
-<div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/password-manager-rust" title="Password Manager">
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=password-manager-rust&theme=radical&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/network-scanner" title="Network Scanner Tool">
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=network-scanner&theme=radical&hide_border=true&border_radius=10" />
-  </a>
-</div>
-<br><br><br><br>
-<div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories" title="View All Repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
-  </a>
-</div>
+[<img src="https://img.shields.io/badge/Cloud%20Security-282C34?logo=amazon-aws&logoColor=232F3E" alt="Cloud Security" title="Cloud Security" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Penetration%20Testing-282C34?logo=kali-linux&logoColor=557C94" alt="Penetration Testing" title="Penetration Testing" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Reverse%20Engineering-282C34?logo=ghidra&logoColor=FFFFFF" alt="Reverse Engineering" title="Reverse Engineering" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Threat%20Intelligence-282C34?logo=microsoft&logoColor=0078D4" alt="Threat Intelligence" title="Threat Intelligence" height="28" />](#)
+&nbsp;
+[<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" alt="Go" title="Go" height="28" />](#)
 
-<hr>
+## Experience and Learning Path
 
-<p align="center">
-  <i>Open to collaborations in cybersecurity research and network security projects</i>
-</p>
+| Duration | Focus Area | Details |
+|----------|-----------|---------|
+| ~3.5 Months | Intensive Self-Study | Rust programming, Network fundamentals, Security concepts |
+| Ongoing | CompTIA Network+ | Completed full curriculum: Protocols, Infrastructure, Network Operations |
+| Ongoing | CompTIA A+ Fundamentals | Hardware troubleshooting, System maintenance, OS basics |
+| Ongoing | Practical Development | Building security tools in Rust, Linux system administration |
+
+## Projects
+
+| Project | Description | Technologies |
+|---------|------------|-------------|
+| Password Manager (Rust) | Secure password management tool with encryption | Rust, Cryptography, File I/O |
+| Network Scanner Utility | Basic network discovery and port scanning tool | Rust, Socket Programming, TCP/IP |
+| System Hardening Scripts | Bash scripts for Linux security configuration | Bash, Linux, Security Best Practices |
+
+## Education
+
+**High School Student** | Madinah, Saudi Arabia  
+*Expected Graduation: 2027*  
+- Balancing academic studies with focused technical training in Cybersecurity and Networking
+
+## Where to Find Me
+
+[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub" title="GitHub" height="28" />](https://github.com/YOUR_USERNAME)
+&nbsp;
+[<img src="https://img.shields.io/badge/Email-282C34?logo=gmail&logoColor=D14836" alt="Email" title="Email" height="28" />](mailto:your-email@example.com)
+&nbsp;
+[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=2CA5E0" alt="Telegram" title="Telegram" height="28" />](https://t.me/YOUR_USERNAME)
+
+---
+
+> Open to collaborations in cybersecurity research, network security projects, and Rust-based tool development.
