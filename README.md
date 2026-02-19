@@ -62,6 +62,7 @@ My goal is to reach an advanced level of expertise in cybersecurity and contribu
 | CompTIA A+                 | Fundamentals Acquired           |
 
 ---
+
 ## Awards & Achievements
 
 **Mawhiba Multiple Cognitive Abilities Test**  
@@ -75,8 +76,6 @@ My goal is to reach an advanced level of expertise in cybersecurity and contribu
 </div>
 
 *Score 1410/2000 in the Mawhiba Multiple Cognitive Abilities Test – 2026*
-
-[Download full certificate (PDF)](certificates/Mawhiba hub.pdf)
 
 ---
 
