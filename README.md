@@ -71,7 +71,7 @@ My goal is to reach an advanced level of expertise in cybersecurity and contribu
 - Year: 2026  
 - Issued by: King Abdulaziz & His Companions Foundation for Giftedness and Creativity (Mawhiba)
 
-<img src="certificates/Mawhiba hub.jpg" alt="Mawhiba Certificate 2026" width="600" />
+<img src="certificates/1771529962704-08e3f8a1-19a2-49d8-8f5f-c873f28c2265_1.jpg" alt="Mawhiba Certificate 2026" width="600" />
 
 *Score 1410/2000 in the Mawhiba Multiple Cognitive Abilities Test – 2026*
 
