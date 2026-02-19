@@ -62,7 +62,6 @@ My goal is to reach an advanced level of expertise in cybersecurity and contribu
 | CompTIA A+                 | Fundamentals Acquired           |
 
 ---
-
 ## Awards & Achievements
 
 **Mawhiba Multiple Cognitive Abilities Test**  
@@ -71,7 +70,9 @@ My goal is to reach an advanced level of expertise in cybersecurity and contribu
 - Year: 2026  
 - Issued by: King Abdulaziz & His Companions Foundation for Giftedness and Creativity (Mawhiba)
 
-[![Mawhiba Certificate 2026](certificates/1771529962704-08e3f8a1-19a2-49d8-8f5f-c873f28c2265_1.jpg)](certificates/1771529962704-08e3f8a1-19a2-49d8-8f5f-c873f28c2265_1.jpg)
+<div align="center">
+  <img src="certificates/1771529962704-08e3f8a1-19a2-49d8-8f5f-c873f28c2265_1.jpg" alt="Mawhiba Certificate 2026" width="650" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</div>
 
 *Score 1410/2000 in the Mawhiba Multiple Cognitive Abilities Test – 2026*
 
