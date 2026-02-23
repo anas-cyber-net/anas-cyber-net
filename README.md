@@ -15,9 +15,10 @@
 ## About Me
 
 I am a 16-year-old high school student based in Madinah, Saudi Arabia. Originally from Egypt, I am deeply passionate about Cybersecurity and Computer Networks.  
-Although I have not yet specialized in a specific track (Red Team or Blue Team), my primary interest lies in understanding network architectures and protocols.  
 
-My goal is to reach an advanced level of expertise in cybersecurity and contribute to the field through secure tool development and network analysis.
+I specialize in the **Red Team** track. My primary interest lies in understanding network architectures and protocols, with a strong focus on ethical hacking, penetration testing, and offensive security techniques.
+
+My goal is to reach an advanced level of expertise in cybersecurity and contribute to the field through secure tool development and in-depth network analysis.
 
 ---
 
