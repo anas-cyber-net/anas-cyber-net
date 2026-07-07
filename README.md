@@ -82,4 +82,4 @@ My goal is to reach an advanced level of expertise in cybersecurity and contribu
 - **Email:** anas.jaafar.cyber.net.t@proton.me  
 - **Location:** Madinah, Saudi Arabia
 
----
+--- 
